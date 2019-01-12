@@ -1,0 +1,23 @@
+chmod guo-rwx name  //+ to add -  to remove
+chmod number name //r 4 | w 2 |x 1 ugo format
+chown owner:groups finename
+groups
+groupadd groupname 
+gpasswd -a username groupname
+gpasswd -d username groupname
+
+
+echo "message"
+variable="message "
+echo $variable
+
+
+
+
+alias name='do whatever'
+alias  // to list
+unalias name
+
+
+in home directory create file
+.bashrc    with all commands to run nexttime 
